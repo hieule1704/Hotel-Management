@@ -103,3 +103,44 @@ C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelMan
 C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
 C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
 C:\Users\ndc07\Documents\WF Project\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\bin\Debug\FlashControlV71.dll
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.csproj.AssemblyReference.cache
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAbout.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAccess.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAddService.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fBill.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fManagement.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fParameter.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fReport.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fService.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fStaff.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelMan.D309C9BB.Up2Date
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\lehie\Downloads\Đồ án .NET\HotelManager\obj\Debug\HotelManager.pdb

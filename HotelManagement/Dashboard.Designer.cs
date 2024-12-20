@@ -51,6 +51,7 @@
             this.guna2Elipse3 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2Elipse4 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2Elipse5 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.btnLogOut = new Guna.UI2.WinForms.Guna2Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -60,6 +61,7 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel1.Controls.Add(this.btnLogOut);
             this.panel1.Controls.Add(this.MovingPanel);
             this.panel1.Controls.Add(this.btnEmployee);
             this.panel1.Controls.Add(this.btnCustomerDetails);
@@ -97,7 +99,7 @@
             this.btnEmployee.ImageSize = new System.Drawing.Size(40, 40);
             this.btnEmployee.Location = new System.Drawing.Point(998, 14);
             this.btnEmployee.Name = "btnEmployee";
-            this.btnEmployee.Size = new System.Drawing.Size(236, 81);
+            this.btnEmployee.Size = new System.Drawing.Size(165, 81);
             this.btnEmployee.TabIndex = 2;
             this.btnEmployee.Text = "Employee";
             this.btnEmployee.Click += new System.EventHandler(this.btnEmployee_Click);
@@ -189,7 +191,7 @@
             this.btnAddRoom.Name = "btnAddRoom";
             this.btnAddRoom.Size = new System.Drawing.Size(236, 81);
             this.btnAddRoom.TabIndex = 0;
-            this.btnAddRoom.Text = "Add Room";
+            this.btnAddRoom.Text = "Room Management";
             this.btnAddRoom.Click += new System.EventHandler(this.btnAddRoom_Click);
             // 
             // panel2
@@ -222,6 +224,7 @@
             // 
             this.uC_Employee1.BackColor = System.Drawing.Color.White;
             this.uC_Employee1.Location = new System.Drawing.Point(3, 2);
+            this.uC_Employee1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.uC_Employee1.Name = "uC_Employee1";
             this.uC_Employee1.Size = new System.Drawing.Size(1301, 536);
             this.uC_Employee1.TabIndex = 4;
@@ -230,6 +233,7 @@
             // 
             this.uC_CustomerRegistration1.BackColor = System.Drawing.Color.White;
             this.uC_CustomerRegistration1.Location = new System.Drawing.Point(3, 2);
+            this.uC_CustomerRegistration1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.uC_CustomerRegistration1.Name = "uC_CustomerRegistration1";
             this.uC_CustomerRegistration1.Size = new System.Drawing.Size(1301, 536);
             this.uC_CustomerRegistration1.TabIndex = 3;
@@ -238,6 +242,7 @@
             // 
             this.uC_CustomerDetails1.BackColor = System.Drawing.Color.White;
             this.uC_CustomerDetails1.Location = new System.Drawing.Point(3, 2);
+            this.uC_CustomerDetails1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.uC_CustomerDetails1.Name = "uC_CustomerDetails1";
             this.uC_CustomerDetails1.Size = new System.Drawing.Size(1301, 536);
             this.uC_CustomerDetails1.TabIndex = 2;
@@ -320,6 +325,27 @@
             this.guna2Elipse5.BorderRadius = 10;
             this.guna2Elipse5.TargetControl = this;
             // 
+            // btnLogOut
+            // 
+            this.btnLogOut.BorderRadius = 26;
+            this.btnLogOut.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
+            this.btnLogOut.CheckedState.FillColor = System.Drawing.Color.White;
+            this.btnLogOut.CheckedState.ForeColor = System.Drawing.Color.Black;
+            this.btnLogOut.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnLogOut.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnLogOut.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnLogOut.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnLogOut.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnLogOut.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogOut.ForeColor = System.Drawing.Color.White;
+            this.btnLogOut.ImageSize = new System.Drawing.Size(40, 40);
+            this.btnLogOut.Location = new System.Drawing.Point(1169, 14);
+            this.btnLogOut.Name = "btnLogOut";
+            this.btnLogOut.Size = new System.Drawing.Size(72, 81);
+            this.btnLogOut.TabIndex = 3;
+            this.btnLogOut.Text = "Log Out";
+            this.btnLogOut.Click += new System.EventHandler(this.btnLogOut_Click);
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
@@ -365,5 +391,6 @@
         private All_User_Control.UC_CustomerCheckOut uC_CustomerCheckOut1;
         private All_User_Control.UC_AddRoom uC_AddRoom1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private Guna.UI2.WinForms.Guna2Button btnLogOut;
     }
 }

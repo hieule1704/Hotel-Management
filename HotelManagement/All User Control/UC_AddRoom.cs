@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Guna.UI2.WinForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -104,8 +105,20 @@ namespace HotelManagement.All_User_Control
         {
             UC_AddRoom_Load(this, null);
         }
-
+        int id;
         private void DataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+
+            if (DataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
+            {
+                id = int.Parse(DataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString());
+                txtRoomID.Text = DataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
+
+            }
+        }
+
+        private void DataGridView1_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             UC_AddRoom_Load(this, null);
         }

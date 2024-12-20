@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|c:\\github repository\\hotel-management\\hotelmanagement\\all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|c:\\github repository\\hotel-management\\hotelmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|c:\\github repository\\hotel-management\\hotelmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|c:\\github repository\\hotel-management\\hotelmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|c:\\github repository\\hotel-management\\hotelmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|C:\\Github Repository\\Hotel-Management\\HotelManagement\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA5819C4-57F8-4003-9C5C-6D54C9E8753F}|HotelManagement.csproj|solutionrelative:all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\Dashboard.cs",
               "RelativeDocumentMoniker": "Dashboard.cs",
@@ -46,7 +58,8 @@
               "RelativeToolTip": "Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T09:57:29.486Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -54,60 +67,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:50:18.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:50:15.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:48:45.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_CustomerDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "All User Control\\UC_CustomerDetails.cs",
+              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerDetails.cs [Design]",
+              "RelativeToolTip": "All User Control\\UC_CustomerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:48:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_CustomerDetails.cs",
+              "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "All User Control\\UC_CustomerDetails.cs",
+              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerDetails.cs",
+              "RelativeToolTip": "All User Control\\UC_CustomerDetails.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:47:27.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UC_CustomerRegistration.cs [Design]",
               "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerRegistration.cs",
               "RelativeDocumentMoniker": "All User Control\\UC_CustomerRegistration.cs",
               "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerRegistration.cs [Design]",
               "RelativeToolTip": "All User Control\\UC_CustomerRegistration.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T10:06:13.572Z"
+              "WhenOpened": "2024-12-20T04:17:52.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UC_CustomerCheckOut.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "UC_CustomerCheckOut.cs",
               "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerCheckOut.cs",
               "RelativeDocumentMoniker": "All User Control\\UC_CustomerCheckOut.cs",
-              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerCheckOut.cs [Design]",
-              "RelativeToolTip": "All User Control\\UC_CustomerCheckOut.cs [Design]",
+              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerCheckOut.cs",
+              "RelativeToolTip": "All User Control\\UC_CustomerCheckOut.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIA8wEgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T10:05:41.915Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-20T04:21:01.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "UC_AddRoom.cs [Design]",
               "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_AddRoom.cs",
               "RelativeDocumentMoniker": "All User Control\\UC_AddRoom.cs",
               "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_AddRoom.cs [Design]",
               "RelativeToolTip": "All User Control\\UC_AddRoom.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T07:56:45.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UC_CustomerRegistration.cs",
-              "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerRegistration.cs",
-              "RelativeDocumentMoniker": "All User Control\\UC_CustomerRegistration.cs",
-              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_CustomerRegistration.cs",
-              "RelativeToolTip": "All User Control\\UC_CustomerRegistration.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAvwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T10:06:25.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UC_Employee.cs [Design]",
-              "DocumentMoniker": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_Employee.cs",
-              "RelativeDocumentMoniker": "All User Control\\UC_Employee.cs",
-              "ToolTip": "C:\\Github Repository\\Hotel-Management\\HotelManagement\\All User Control\\UC_Employee.cs [Design]",
-              "RelativeToolTip": "All User Control\\UC_Employee.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:29:23.456Z"
+              "WhenOpened": "2024-12-20T03:48:40.165Z"
             }
           ]
         }

@@ -34,7 +34,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.btnCheckOut = new Guna.UI2.WinForms.Guna2Button();
-            this.txtCheckOutDate = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.label7 = new System.Windows.Forms.Label();
             this.txtCName = new Guna.UI2.WinForms.Guna2TextBox();
             this.lblProof = new System.Windows.Forms.Label();
@@ -45,6 +44,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.guna2Elipse2 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2DataGridView1 = new Guna.UI2.WinForms.Guna2DataGridView();
+            this.txtCheckOutDate = new Guna.UI2.WinForms.Guna2DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -75,22 +75,6 @@
             this.btnCheckOut.TabIndex = 64;
             this.btnCheckOut.Text = "Check Out";
             this.btnCheckOut.Click += new System.EventHandler(this.btnCheckOut_Click);
-            // 
-            // txtCheckOutDate
-            // 
-            this.txtCheckOutDate.Checked = true;
-            this.txtCheckOutDate.CheckedState.BorderColor = System.Drawing.Color.White;
-            this.txtCheckOutDate.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(221)))));
-            this.txtCheckOutDate.CheckedState.ForeColor = System.Drawing.Color.White;
-            this.txtCheckOutDate.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtCheckOutDate.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.txtCheckOutDate.Location = new System.Drawing.Point(795, 467);
-            this.txtCheckOutDate.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
-            this.txtCheckOutDate.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
-            this.txtCheckOutDate.Name = "txtCheckOutDate";
-            this.txtCheckOutDate.Size = new System.Drawing.Size(211, 36);
-            this.txtCheckOutDate.TabIndex = 63;
-            this.txtCheckOutDate.Value = new System.DateTime(2024, 12, 17, 11, 40, 16, 162);
             // 
             // label7
             // 
@@ -272,6 +256,22 @@
             this.guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
             this.guna2DataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.guna2DataGridView1_CellClick);
             // 
+            // txtCheckOutDate
+            // 
+            this.txtCheckOutDate.Checked = true;
+            this.txtCheckOutDate.CheckedState.BorderColor = System.Drawing.Color.White;
+            this.txtCheckOutDate.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(221)))));
+            this.txtCheckOutDate.CheckedState.ForeColor = System.Drawing.Color.White;
+            this.txtCheckOutDate.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtCheckOutDate.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.txtCheckOutDate.Location = new System.Drawing.Point(795, 467);
+            this.txtCheckOutDate.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
+            this.txtCheckOutDate.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
+            this.txtCheckOutDate.Name = "txtCheckOutDate";
+            this.txtCheckOutDate.Size = new System.Drawing.Size(211, 36);
+            this.txtCheckOutDate.TabIndex = 63;
+            this.txtCheckOutDate.Value = new System.DateTime(2024, 12, 17, 11, 40, 16, 162);
+            // 
             // UC_CustomerCheckOut
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -303,7 +303,6 @@
 
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse1;
         private Guna.UI2.WinForms.Guna2Button btnCheckOut;
-        private Guna.UI2.WinForms.Guna2DateTimePicker txtCheckOutDate;
         private System.Windows.Forms.Label label7;
         private Guna.UI2.WinForms.Guna2TextBox txtCName;
         private System.Windows.Forms.Label lblProof;
@@ -314,5 +313,6 @@
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse2;
         private Guna.UI2.WinForms.Guna2DataGridView guna2DataGridView1;
+        private Guna.UI2.WinForms.Guna2DateTimePicker txtCheckOutDate;
     }
 }

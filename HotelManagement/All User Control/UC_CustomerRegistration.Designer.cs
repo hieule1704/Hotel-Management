@@ -39,7 +39,6 @@
             this.txtNationality = new Guna.UI2.WinForms.Guna2TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.txtGender = new Guna.UI2.WinForms.Guna2ComboBox();
-            this.txtDob = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.txtAddress = new Guna.UI2.WinForms.Guna2TextBox();
@@ -51,11 +50,12 @@
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.txtCheckIn = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.btnAllotRoom = new Guna.UI2.WinForms.Guna2Button();
             this.txtRoomType = new Guna.UI2.WinForms.Guna2ComboBox();
             this.txtBed = new Guna.UI2.WinForms.Guna2ComboBox();
             this.txtPrice = new Guna.UI2.WinForms.Guna2TextBox();
+            this.txtCheckIn = new Guna.UI2.WinForms.Guna2DateTimePicker();
+            this.txtDob = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.SuspendLayout();
             // 
             // guna2Elipse1
@@ -201,22 +201,6 @@
             this.txtGender.Size = new System.Drawing.Size(344, 36);
             this.txtGender.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
             this.txtGender.TabIndex = 20;
-            // 
-            // txtDob
-            // 
-            this.txtDob.Checked = true;
-            this.txtDob.CheckedState.BorderColor = System.Drawing.Color.White;
-            this.txtDob.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(221)))));
-            this.txtDob.CheckedState.ForeColor = System.Drawing.Color.White;
-            this.txtDob.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtDob.Format = System.Windows.Forms.DateTimePickerFormat.Long;
-            this.txtDob.Location = new System.Drawing.Point(25, 450);
-            this.txtDob.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
-            this.txtDob.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
-            this.txtDob.Name = "txtDob";
-            this.txtDob.Size = new System.Drawing.Size(347, 36);
-            this.txtDob.TabIndex = 0;
-            this.txtDob.Value = new System.DateTime(2024, 12, 17, 11, 40, 16, 162);
             // 
             // label6
             // 
@@ -366,22 +350,6 @@
             this.label13.TabIndex = 28;
             this.label13.Text = "Bed";
             // 
-            // txtCheckIn
-            // 
-            this.txtCheckIn.Checked = true;
-            this.txtCheckIn.CheckedState.BorderColor = System.Drawing.Color.White;
-            this.txtCheckIn.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(221)))));
-            this.txtCheckIn.CheckedState.ForeColor = System.Drawing.Color.White;
-            this.txtCheckIn.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtCheckIn.Format = System.Windows.Forms.DateTimePickerFormat.Long;
-            this.txtCheckIn.Location = new System.Drawing.Point(480, 278);
-            this.txtCheckIn.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
-            this.txtCheckIn.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
-            this.txtCheckIn.Name = "txtCheckIn";
-            this.txtCheckIn.Size = new System.Drawing.Size(347, 36);
-            this.txtCheckIn.TabIndex = 36;
-            this.txtCheckIn.Value = new System.DateTime(2024, 12, 17, 11, 40, 16, 162);
-            // 
             // btnAllotRoom
             // 
             this.btnAllotRoom.BorderRadius = 23;
@@ -469,16 +437,49 @@
             this.txtPrice.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
             this.txtPrice.TabIndex = 41;
             // 
+            // txtCheckIn
+            // 
+            this.txtCheckIn.Checked = true;
+            this.txtCheckIn.CheckedState.BorderColor = System.Drawing.Color.White;
+            this.txtCheckIn.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(221)))));
+            this.txtCheckIn.CheckedState.ForeColor = System.Drawing.Color.White;
+            this.txtCheckIn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtCheckIn.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.txtCheckIn.Location = new System.Drawing.Point(480, 278);
+            this.txtCheckIn.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
+            this.txtCheckIn.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
+            this.txtCheckIn.Name = "txtCheckIn";
+            this.txtCheckIn.Size = new System.Drawing.Size(347, 36);
+            this.txtCheckIn.TabIndex = 64;
+            this.txtCheckIn.Value = new System.DateTime(2024, 12, 17, 11, 40, 16, 162);
+            // 
+            // txtDob
+            // 
+            this.txtDob.Checked = true;
+            this.txtDob.CheckedState.BorderColor = System.Drawing.Color.White;
+            this.txtDob.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(221)))));
+            this.txtDob.CheckedState.ForeColor = System.Drawing.Color.White;
+            this.txtDob.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtDob.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.txtDob.Location = new System.Drawing.Point(25, 450);
+            this.txtDob.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
+            this.txtDob.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
+            this.txtDob.Name = "txtDob";
+            this.txtDob.Size = new System.Drawing.Size(347, 36);
+            this.txtDob.TabIndex = 65;
+            this.txtDob.Value = new System.DateTime(2024, 12, 17, 11, 40, 16, 162);
+            // 
             // UC_CustomerRegistration
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.txtDob);
+            this.Controls.Add(this.txtCheckIn);
             this.Controls.Add(this.txtPrice);
             this.Controls.Add(this.txtBed);
             this.Controls.Add(this.txtRoomType);
             this.Controls.Add(this.btnAllotRoom);
-            this.Controls.Add(this.txtCheckIn);
             this.Controls.Add(this.txtRoomNo);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label11);
@@ -490,7 +491,6 @@
             this.Controls.Add(this.txtIdProof);
             this.Controls.Add(this.lblProof);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.txtDob);
             this.Controls.Add(this.txtGender);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtNationality);
@@ -522,8 +522,6 @@
         private System.Windows.Forms.Label label5;
         private Guna.UI2.WinForms.Guna2ComboBox txtGender;
         private System.Windows.Forms.Label label6;
-        private Guna.UI2.WinForms.Guna2DateTimePicker txtDob;
-        private Guna.UI2.WinForms.Guna2DateTimePicker txtCheckIn;
         private Guna.UI2.WinForms.Guna2ComboBox txtRoomNo;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
@@ -538,5 +536,7 @@
         private Guna.UI2.WinForms.Guna2ComboBox txtBed;
         private Guna.UI2.WinForms.Guna2ComboBox txtRoomType;
         private Guna.UI2.WinForms.Guna2Button btnAllotRoom;
+        private Guna.UI2.WinForms.Guna2DateTimePicker txtDob;
+        private Guna.UI2.WinForms.Guna2DateTimePicker txtCheckIn;
     }
 }
